@@ -1,0 +1,10 @@
+.content{
+    background-color: #f0f0f0;
+    height: 100%;
+    width: 100%;
+}
+.optinholder{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
